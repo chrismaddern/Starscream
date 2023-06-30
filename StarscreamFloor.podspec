@@ -1,11 +1,11 @@
 Pod::Spec.new do |s|
-  s.name         = "Starscream"
+  s.name         = "StarscreamFloor"
   s.version      = "4.0.4"
   s.summary      = "A conforming WebSocket RFC 6455 client library in Swift."
   s.homepage     = "https://github.com/daltoniam/Starscream"
   s.license      = 'Apache License, Version 2.0'
   s.author       = {'Dalton Cherry' => 'http://daltoniam.com', 'Austin Cherry' => 'http://austincherry.me'}
-  s.source       = { :git => 'https://github.com/chrismaddern/Starscream.git',  :branch => "master"}
+  s.source       = { :git => 'https://github.com/chrismaddern/StarscreamFloor.git',  :branch => "master"}
   s.social_media_url = 'http://twitter.com/daltoniam'
   s.ios.deployment_target = '12.0'
   s.osx.deployment_target = '12.0'
